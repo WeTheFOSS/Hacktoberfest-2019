@@ -5,3 +5,4 @@
 * [Archit Awasthi](https://archit023.github.io)
 * [Vivek Kumar Kanaujia](https://github.com/vivekaris)
 * [Raunak Hajela](https://github.com/raunakhajela/)
+* [Vishwash Bajpai](https://github.com/Daggerhub)
