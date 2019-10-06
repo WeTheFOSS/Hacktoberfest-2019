@@ -6,3 +6,4 @@
 * [Vivek Kumar Kanaujia](https://github.com/vivekaris)
 * [Raunak Hajela](https://github.com/raunakhajela/)
 * [Vishwash Bajpai](https://github.com/Daggerhub)
+* [Sneha Omer](https://github.com/sassyec0der)
