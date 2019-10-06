@@ -5,7 +5,7 @@
 * [Archit Awasthi](https://archit023.github.io)
 * [Sneha Omer](https://github.com/sassyec0der)
 * [Vivek Kumar Kanaujia](https://github.com/vivekaris)
-* [Dhruv Trehan] (https://github.com/DhruvTrehan)
+* [Dhruv Trehan](https://github.com/DhruvTrehan)
 * [Raunak Hajela](https://github.com/raunakhajela/)
 * [Sneha Omer](https://github.com/sassyec0der)
 * [Rohan Das](https://rohandas28.github.io)
