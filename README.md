@@ -10,3 +10,4 @@
 * [Sneha Omer](https://github.com/sassyec0der)
 * [Rohan Das](https://rohandas28.github.io)
 * [Vishwash Bajpai](https://github.com/Daggerhub)
+* [Himanshu Awasthi](https://github.com/IHackPy)
