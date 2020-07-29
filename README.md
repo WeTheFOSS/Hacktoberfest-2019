@@ -8,5 +8,6 @@
 * [Dhruv Trehan](https://github.com/DhruvTrehan)
 * [Raunak Hajela](https://github.com/raunakhajela/)
 * [Sneha Omer](https://github.com/sassyec0der)
+* [Apoorve Kumar Verma](https://github.com/Apoorve8055)(https://apoorvverma.in)
 * [Rohan Das](https://rohandas28.github.io)
 * [Vishwash Bajpai](https://github.com/Daggerhub)
