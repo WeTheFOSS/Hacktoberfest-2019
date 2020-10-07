@@ -1,6 +1,6 @@
 # Hacktoberfest-2020
 
-# The Programmer Who Will Change The World Forever With Coding
+# The Programmer Who Will Change The World Forever With Programming
 
 - [Harsh Trivedi](https://harsh98trivedi.github.io)
 - [Rohit](https://github.com)
